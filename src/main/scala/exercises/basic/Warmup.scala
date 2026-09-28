@@ -29,6 +29,6 @@ object Warmup:
   def abs(n: Int): Int = ???
 
   /** A constant string describing the course. */
-  val courseName: String = ???
+  val courseName: String = "Functional Programming"
 
 end Warmup
